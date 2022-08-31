@@ -3,10 +3,10 @@
 [![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=bruno-valero&layout=compact)](https://github.com/bruno-valero)
 
 <div class="tecnologias" style="padding-bottom: 10px;">
-<a href="http://python.org">
+<a href="http://python.org" target="_blank">
 <img lign="center" alt="Bruno-Python" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Python_logo_01.svg/2048px-Python_logo_01.svg.png">
 </a>
-<a href="https://www.mysql.com/">
+<a href="https://www.mysql.com/" target="_blank">
 <img lign="center" alt="Bruno-SQL" height="38" width="40" src="https://symbols.getvecta.com/stencil_27/79_sql-database-generic.494ff6320e.png">
 </a>
 </div>
@@ -14,10 +14,10 @@
  ##
  
 <div>
-<a href="https://linkedin.com/in/bruno-valero">
+<a href="https://linkedin.com/in/bruno-valero" target="_blank">
 <img lign="center" alt="Bruno-LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
-<a href="https://www.instagram.com/bruno_fernandes_valero">
+<a href="https://www.instagram.com/bruno_fernandes_valero" target="_blank">
 <img lign="center" alt="Bruno-Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 </div><br>
