@@ -2,7 +2,7 @@
 [![Status do Git Hub](https://github-readme-stats.vercel.app/api?username=bruno-valero&show_icons=true&border_color=#425df5&title_color=#425df5&text_color=#425df5&theme=radical)](https://github.com/bruno-valero)
 [![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=bruno-valero&layout=compact)](https://github.com/bruno-valero)
 
-<div class="tecnologias" style="padding-bottom: 10px;">
+<div class="tecnologias">
 <a href="http://python.org" target="_blank">
 <img lign="center" alt="Bruno-Python" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Python_logo_01.svg/2048px-Python_logo_01.svg.png">
 </a>
