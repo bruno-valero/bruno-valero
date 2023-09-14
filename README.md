@@ -55,7 +55,7 @@
 
 <br>
 
-Análise de Dados e Desenvollvimento Web
+Análise de Dados e Desenvolvimento Web
 
 
 
